@@ -185,11 +185,11 @@ Contributions are welcome! If you want to improve this project, follow these ste
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
+## 📞 Contact: (011) 98678-2984
 
-[Your Name] - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Name: esricci26@gmail.com
 
-Project Link: [https://github.com/your-username/sqlite-ide-app](https://github.com/your-username/sqlite-ide-app)
+Project Link: https://github.com/ESRicci26/Aplicativo_IDE_BD_SQLite
 
 ---
 
